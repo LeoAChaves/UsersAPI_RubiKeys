@@ -284,5 +284,3 @@ Desenvolvido como parte do projeto Rubi Keys API
 **Status do Projeto:** ✅ Concluído e testado
 
 ```
-
-```
